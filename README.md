@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Licenciado en Biología por la Universidad Central de Venezuela. Me especializo en el análisis de datos ecológicos utilizando el lenguaje R, con el objetivo de identificar patrones y construir modelos robustos a partir de variables complejas. Aunque mi hábitat natural es la ecología, estoy dispuesto a aplicar mi capacidad analítica para resolver desafíos en nuevos sectores y disciplinas.
+Soy Licenciado en Biología de la Universidad Central de Venezuela. Me especializo en el análisis de datos ecológicos utilizando el lenguaje R, con el objetivo de identificar patrones y construir modelos robustos a partir de variables complejas. Aunque mi hábitat natural es la ecología, estoy dispuesto a aplicar mi capacidad analítica para resolver desafíos en nuevos sectores y disciplinas.
 
 
 # 💻 Tech Stack:
